@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Loading from './Loading'
-import Tours from './Tours'
+import Review from './Review'
 //react icons he jis me se koe bhi laga sakhte hain
 // jus us ka link dalna hoga
 // import { FaGithubSquare } from 'react-icons/fa';
