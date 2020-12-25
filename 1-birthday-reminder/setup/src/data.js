@@ -1,37 +1,36 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+    name: 'bilal iqbal',
+    age: 20,
+    image: 'https://st2.depositphotos.com/3369547/11378/v/950/depositphotos_113787590-stock-illustration-man-design-male-avatar-icon.jpg'
   },
   {
     id: 2,
-    name: 'Hester Hogan',
-    age: 32,
+    name: 'abdul samad',
+    age: 22,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      'https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59095529-stock-illustration-profile-icon-male-avatar.jpg',
   },
   {
     id: 3,
-    name: 'Larry Little',
-    age: 36,
+    name: 'Hasan',
+    age: 23,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      'https://st2.depositphotos.com/3369547/11481/v/950/depositphotos_114817672-stock-illustration-avatar-man-icon-businesspeople-design.jpg',
   },
   {
     id: 4,
-    name: 'Sean Walsh',
-    age: 34,
+    name: 'Hamza',
+    age: 20,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      'https://st2.depositphotos.com/3369547/11372/v/950/depositphotos_113724550-stock-illustration-businessman-concept-avatar-male-person.jpg',
   },
   {
     id: 5,
-    name: 'Lola Gardner',
-    age: 29,
+    name: 'Sohail',
+    age: 25,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      'https://previews.123rf.com/images/djvstock/djvstock1606/djvstock160609979/58524013-people-concept-represented-by-avatar-of-a-man-person-icon-over-flat-and-isolated-background.jpg',
   },
 ];
